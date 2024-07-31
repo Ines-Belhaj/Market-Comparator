@@ -1,0 +1,29 @@
+h1{
+  padding: 20px;
+}
+.list, .list.tr {
+  border: 5px  ;
+  border-style: solid;
+  border-color: #346751;
+  padding:20px;
+  margin: 20px;
+  background: radial-gradient(white, #9fe6a0);
+
+}
+h3{
+  background-color:  #c84b31;
+  width: 60%;
+}
+.text{
+  padding: 5px;
+font-size: 20px;
+width: 70%;
+}
+.mb-3{
+  width: 70%;
+}
+.header
+{
+  font-size: 25px;
+   color: #c84b31;
+}

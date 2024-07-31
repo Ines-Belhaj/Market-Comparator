@@ -1,0 +1,13 @@
+.searchProduct{
+  padding: 20px;
+  border-color:#e4bad4;
+  border-style: solid;
+  width: 50%;
+  margin: 10px;
+background: radial-gradient(white, #f6dfeb);
+
+}
+.form-control{
+  width: 30%;
+  display: block;
+}
